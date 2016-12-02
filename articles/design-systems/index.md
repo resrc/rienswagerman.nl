@@ -1,4 +1,4 @@
-# Design Systems
+# a summary of Design Systems
 
 From Designing Objects to Designing systems.
 Systems that make better design results.

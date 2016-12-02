@@ -192,25 +192,6 @@ ol {
   }
 }
 
-/* HACK: Prevent empty list items collapsing
-   Note this doesn’t work for paragraph lists, although we can fix via class or once has() is supported with: `ul li:not:has(p)::after` */
-ul li:empty::after,
-.task-list-item:last-child::after {
-  content: "";
-  display: inline-block;
-}
-
-dd {
-  -webkit-margin-start: 2.2222rem; /* ~40px for font-size: 18px. rem works better for RWD than % */
-  margin-start: 2.2222rem;
-}
-
-/* Remove vertical margins on nested lists */
-:-webkit-any(li, dt, dd, th, td) > :-webkit-any(ul, ol, dl) {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 /* img is wrapped in p on export by default, so leave as inline */
 img {
   max-width: 100%;

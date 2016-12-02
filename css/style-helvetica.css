@@ -438,7 +438,8 @@ hr + h6 {
 @media screen and (min-width: 760px) {
   ul,
   ol {
-    padding-left: calc((40 / 19) * 1em); /* 2.1053em = ~40px for font-size: 19px. em works better for RWD than % */
+    /*padding-left: calc((40 / 19) * 1em);*/ /* 2.1053em = ~40px for font-size: 19px. em works better for RWD than % */
+    padding-left: 0;
   }
 }
 
@@ -448,9 +449,11 @@ ul {
 }
 
 ul > li:before {
-  content: "• ";
+  /*content: "• ";*/
   float: left; /* Take out of flow to avoid changing left edge alignment or pushing child paragraph down */
-  margin-left: calc((21 / 19) * -1em); /* -1.1053em = 21px @ font-size: 19px. em works better for RWD than % */
+  /*margin-left: calc((21 / 19) * -1em);*/ /* -1.1053em = 21px @ font-size: 19px. em works better for RWD than % */
+  margin-left: 0;
+  list-style: none;
 }
 
 /* Indent ordered lists in blockquotes */
