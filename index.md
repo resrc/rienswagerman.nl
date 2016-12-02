@@ -1,1 +1,1 @@
-articles/on-photo-grids/index.md
+articles/photo-grids/index.md

@@ -371,6 +371,10 @@ h6 {
 
 }
 
+small {
+}
+
+
 /* HACK Fudge a baseline match between h6 and text when run-in */
 h6 {
   position: relative;

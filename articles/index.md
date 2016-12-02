@@ -1,2 +1,2 @@
+* [The dynamic nature of photo grids](/articles/photo-grids/)
 * [Design Systems](/articles/design-systems/)
-* [On Photo Grids](/articles/on-photo-grids/)
