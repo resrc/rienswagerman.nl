@@ -1,0 +1,9 @@
+localhost:8080
+
+markdown / {
+  template default.html
+}
+
+markdown /articles {
+  template default.html
+}
