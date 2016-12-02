@@ -1,4 +1,4 @@
-# Influential Design Systems
+# Design Systems
 
 From Designing Objects to Designing systems.
 Systems that make better design results.
