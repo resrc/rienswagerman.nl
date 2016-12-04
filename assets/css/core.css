@@ -1,11 +1,4 @@
 /**
- * iA Writer core.css:
- * Base styles for all templates
- *
- * - Generic
- * - Base
- * - Objects
- *
  * Notes:
  * - CSS load order: normalize.css, core.css (base styles), style.css (theme styles)
  * - Margins are in %s (of viewport or container width) via calc() to scale fluidly
@@ -46,7 +39,6 @@ article {
 
 /* Sticky footer */
 
-
 html, body {
   height: 100%;
 }
@@ -63,6 +55,21 @@ html, body {
 header {
   display: flex;
   justify-content: space-between;
+}
+
+header a:first-child {
+  flex: 1;
+}
+
+header a:last-child {
+  flex: 1;
+  text-align: right;
+}
+
+header a:nth-child(2) {
+  -webkit-align-self: center;
+  align-self: center;
+
 }
 
 .site-footer, .page-wrap:after {
