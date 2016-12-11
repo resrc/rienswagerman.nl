@@ -1,4 +1,4 @@
 #articles
 
 * [The dynamic nature of photo grids](/articles/photo-grids/)
-* [A summary of Design Systems](/articles/design-systems/)
+* [Evolvement of Visual Design Systems](/articles/visual-design-systems/)

@@ -1,6 +1,6 @@
 # The dynamic nature of photo grids
 
-## How to use photo grids to express meaning
+## How photo grids are used to express meaning
 
 ![](/articles/photo-grids/assets/warhol-sixteen-jackies.jpg) <small>Andy Warhol, 16 Jackies (1964) © The Andy Warhol Foundation for the Visual Arts, Inc./Artists Rights Society (ARS), New York.</small>
 
@@ -23,7 +23,9 @@ So grids are not only just functional ways of displaying information. They inevi
 
 Besides the possible presence of text and where the photoserie is displayed (magazine, exhibition, web, etc), the main factors in creating meaning are the content, ORDENINGPRINCIPES and visual presentation that are intrinsically linked to each other.  All forms can be expressed through grid layouts. Wether its a The *photo-essay*, born in the 30's magazines like TIME. photography narrative form. W. Eugene Smith, Country Doctor. A *typology*, of which Bernd and Hella Becher. A *sequence*, Edward Muybridge, The Horse in Motion, A *collage*, a combination of photos that forms one image. David-Hockney-Photography or .Free form
 
-![](/articles/photo-grids/assets/1101-jazz-elsken-6.jpg)
+![](/articles/photo-grids/assets/JAZZ-ed-van-der-elsken-1.jpg)
+
+![](/articles/photo-grids/assets/JAZZ-ed-van-der-elsken-2.jpg)
 
 An impressive example of grid design is Ed van der Elsken's photobook *Jazz*.
 Pages are split into two-, three-, four-, and six-part image combinations, resembling the clusters of notes in a saxaphone or trumpet run. Graphically, vertical clusters of images suggest piano keys, while horizontal, stretched images recall held notes. The result is a book that visually echos the music itself[3].

@@ -321,7 +321,7 @@ h1 {
   margin-bottom: calc((62 / 23) * 1em);
   font-size: calc((23 / 19) * 2em); /* 1.2105em = 23px @ font-size: 19px */
   line-height: calc(31 / 23); /* 1.3478 = 31px @ font-size: 23px */
-  letter-spacing: 0.5px;
+  letter-spacing: 0.2px;
   font-weight: normal;
   text-transform: lowercase;
 }
@@ -541,12 +541,12 @@ h1 :-webkit-any(code, samp, kbd, strong) {
   caption,
   tbody th,
   td {
-    border-bottom-color: #1a1a1a;
+    border-bottom-color: #ccc;
   }
 
   tbody th,
   td {
-    border-top-color: #1a1a1a;
+    border-top-color: #ccc;
   }
 }
 
@@ -579,54 +579,6 @@ h1 :-webkit-any(code, samp, kbd, strong) {
 }
 
 
-/* Night Mode */
-
-/* Imitate sub-pixel line for narrow widths */
-
-/* First tweakpoint modifying core.css */
-@media screen and (min-width: 150px) {
-  .night-mode hr,
-  .night-mode caption,
-  .night-mode tbody th,
-  .night-mode td {
-    border-bottom-color: #888;
-  }
-
-  .night-mode tbody th,
-  .night-mode td {
-    border-top-color: #888;
-  }
-}
-
-/* Intended border color from 200px */
-@media screen and (min-width: 200px) {
-  .night-mode hr,
-  .night-mode caption,
-  .night-mode tbody th,
-  .night-mode td {
-    border-bottom-color: #dedede;
-  }
-
-  .night-mode tbody th,
-  .night-mode td {
-    border-top-color: #dedede;
-  }
-}
-
-/* Intended border color from 200px for OS X */
-@media screen and (min-width: 200px) and (min-device-width: 1152px) {
-  .night-mode hr,
-  .night-mode caption,
-  .night-mode tbody th,
-  .night-mode td {
-    border-bottom-color: #cccccc;
-  }
-
-  .night-mode tbody th,
-  .night-mode td {
-    border-top-color: #cccccc;
-  }
-}
 
 /* Footnotes */
 .footnotes {
