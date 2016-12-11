@@ -10,13 +10,11 @@ In graphic design
 
 -->
 
-# The Evolvement of visual design systems
+# a summary of visual design systems
 
-## Design systems
+## About Design systems
 
-From Designing Objects to Designing systems.
-Systems that make better design results.
-We make spaces.
+Unimark, an international design firm believed that design could be a system, a basic structure set up so that other people could implement it effectively.... Systems that make better design results.
 
 
 ![](assets/whitney-the-responsive-w.jpg)
