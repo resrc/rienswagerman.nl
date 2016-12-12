@@ -84,11 +84,31 @@ During the 1960's the impetus of the International Typographic style and the vis
 
 ---
 
+![](assets/marber-grid.jpg)
+
+**Marber Grid** | 1961
+
+Romek Marber’s 1960s paperback grid & identity is a landmark of independent British design. Marber was conscious of the Swiss Style, to which his typography is clearly indebted, but a visit to Switzerland, he says, ‘put me off Swiss design slightly’. He felt that the imposition of Swiss grids led to a lack of vitality. Marber’s grid allows for different placements of title and author’s name depending on the length of the title and the needs of the design as a whole.
+http://www.eyemagazine.com/feature/article/penguin-crime-text-in-full
+https://www.creativereview.co.uk/penguin-by-illustrators-romek-marber/
+
+---
+
 ![](assets/muller-brockman-grid-systems.jpg)
 
-**Grid Systems in graphic design - Joseph Müller Brockmann** | 1950?
+**Baseling Grid - Joseph Müller Brockmann** | 1950?
 
 Josef Müller-Brockmann (1914−1996) studied architecture, design and history of art in Zurich and worked as a graphic designer and teacher. His work is recognized for its simple designs and his clean use of fonts, shapes and colors, which still inspires many graphic designers throughout the world today. Since the 1950s grid systems help the designer to organize the graphic elements and have become a world wide standard. – [n'li](https://www.niggli.ch/en/grid-systems-in-graphic-design.html)
+
+---
+
+![](assets/jan-tschichold-form-of-the-book-Fig-7.jpg)
+
+**The Canons of page construction** | 1950
+
+The canons of page construction are a set of principles in the field of book design used to describe the ways that page proportions, margins and type areas (print spaces) of books are constructed. The notion of canons, or laws of form, of book page construction was popularized by Jan Tschichold in the mid to late twentieth century, based on the work of J. A. van de Graaf, Raúl M. Rosarivo, Hans Kayser, and others. Tschichold wrote, “Though largely forgotten today, methods and rules upon which it is impossible to improve have been developed for centuries. To produce perfect books these rules have to be brought to life and applied.”
+[Wikipedia](https://en.wikipedia.org/wiki/Canons_of_page_construction#cite_note-tschichold-1)
+[The form of the book](https://www.amazon.com/Form-Book-Morality-Classic-Typography/dp/0881791164)
 
 ---
 
@@ -99,12 +119,19 @@ Josef Müller-Brockmann (1914−1996) studied architecture, design and history o
 Le Corbusier developed the Modulor in the long tradition of Vitruvius, Leonardo da Vinci's Vitruvian Man, the work of Leon Battista Alberti, and other attempts to discover mathematical proportions in the human body and then to use that knowledge to improve both the appearance and function of architecture.[1] The system is based on human measurements, the double unit, the Fibonacci numbers, and the golden ratio. Le Corbusier described it as a "range of harmonious measurements to suit the human scale, universally applicable to architecture and to mechanical things". – [Wikipedia](https://en.wikipedia.org/wiki/Modulor)
 
 ---
-
 ![](assets/traditional-typographic-scale.png)
 
 **The typographic scale** | 1500
 
 In the sixteenth century, a series of common typographic sizes developed among European typographers, and the series survived with little change and few additions for 400 years. – Mr. Bringhust in The Elements of Typographic Style.
+
+---
+
+*Scan image from p. 12 - Thinking with type.*
+
+**Movable type** | 1456
+
+Movable type, invented by Johannes Gutenberg in Germany in the early fifteenth century, revolutionized writing in the west. Printing with type allowed mass production: large quantities of letters could be cast from a mold and assembled into “forms”. Movable type had been employed in China but had proven less useful there. – Thinking with type
 
 ---
 
