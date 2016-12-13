@@ -378,6 +378,10 @@ h6 {
 small {
 }
 
+.right {
+  float: right;
+}
+
 
 /* HACK Fudge a baseline match between h6 and text when run-in */
 h6 {
