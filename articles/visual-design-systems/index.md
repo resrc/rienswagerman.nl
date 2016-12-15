@@ -12,10 +12,30 @@ In graphic design
 
 # a summary of visual design systems
 
-## About Design systems
+## the goal of design systems
 
-Unimark, an international design firm believed that design could be a system, a basic structure set up so that other people could implement it effectively.... Systems that make better design results.
+Unimark, an international design firm in the 60's believed that design could be a system, a basic structure set up so that other people could implement it effectively.
+Brand identity systems are probably the most well known outcome of this thinking.
 
+Design systems gain new popularity. Mostly because of the growing complexity in creating web-based digital products. Digital products (in contrast to printed products) are displayed on screens of different sizes and with dynamic content. They allow users to interact with their content, and take advantage of motion and animation.
+
+A new interesting mix of the the principles behind the visual design systems of the past and the new digital landscape appears, as shown by the introduction on the website of Google's Material Design system:
+
+> "We challenged ourselves to create a visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science."
+
+NAME promotes graphic designers to code. In his online book *Programming Design Systems* he sums up how designers could benefit from learning to code.
+
+> "Digital products *are* systems, and designers who code are no longer confined to the creation of design systems that end up in printed manuals. Code allows designers to not just create designs, but build digital systems that create designs. Granted, more time will be spent on formulating the rules of the system in code, but designers will be free from the limitations imposed by traditional design software."
+
+Conclusie is dat designers altijd al in meer of mindere mate met design systemen werken / system ontworpen/engineers waren. Voorbeeld letterontwerp op grid. Modular scale, Movable type, Canons of book design.
+
+A lack of tradition. When designing products for the digital products combine tradition with new insights.
+
+The new challange instead of design systems for designers we're moving to design systems for end-users.
+
+Systems that make better design results possible.
+
+---
 
 ![](assets/whitney-the-responsive-w.jpg)
 
@@ -41,18 +61,6 @@ Google. Material design. [material.google.com](https://material.google.com)
 
 ---
 
-![](assets/microsoft-metro.png)
-
-**METRO** <span class="right">2006</span>
-
-Metro is the obsolete name of a typography- and geometry-focused design language created by Microsoft. The design language is based on the design principles of classic Swiss graphic design.
-<br/>
-<small>
-Metro Concept Book. Microsoft. [www.istartedsomething.com/20100316/a-look-at-metro-the-book](http://www.istartedsomething.com/20100316/a-look-at-metro-the-book/)
-</small>
-
----
-
 ![](assets/atomic-design-process.png)
 
 **Atomic Design** <span class="right">2013</span>
@@ -61,6 +69,18 @@ Atomic design is a methodology composed of five distinct stages working together
 <br/>
 <small>
 Brad Frost. Atomic Design. [atomicdesign.bradfrost.com](http://atomicdesign.bradfrost.com/)
+</small>
+
+---
+
+![](assets/microsoft-metro.png)
+
+**METRO** <span class="right">2006</span>
+
+Metro is the obsolete name of a typography- and geometry-focused design language created by Microsoft. The design language is based on the design principles of classic Swiss graphic design.
+<br/>
+<small>
+Metro Concept Book. Microsoft. [www.istartedsomething.com/20100316/a-look-at-metro-the-book](http://www.istartedsomething.com/20100316/a-look-at-metro-the-book/)
 </small>
 
 ---
@@ -82,7 +102,7 @@ Wikipedia. Bruce Tognazzini [https://en.wikipedia.org/wiki/Bruce_Tognazzini](en.
 
 **Unigrid** <span class="right">1977</span>
 
-Unimark, an international design firm believed that design could be a system, a basic structure set up so that other people could implement it effectively. The basic tool for this effort was the grid. Helvetica wat the preferred typeface for all Unimark visual-identity systems. When the offices of Unimark closed during the recession of the 1970's Massimo Vignelli founded Vignelli Associates in 1971. The Unigrid system is developed in 1977 for the United States National Park Service by Vignelly Associates. It is based on simple basic elements.
+Unimark, an international design firm believed that design could be a system, a basic structure set up so that other people could implement it effectively. The basic tool for this effort was the grid. Helvetica was the preferred typeface for all Unimark visual-identity systems. When the offices of Unimark closed during the recession of the 1970's Massimo Vignelli founded Vignelli Associates in 1971. The Unigrid system is developed in 1977 for the United States National Park Service by Vignelly Associates. It is based on simple basic elements.
 <br/>
 <small>
 Philip B. Meggs and Alston W. Purvis. Meggs' History of Graphic Design. Wiley. 6th Edition.
