@@ -1,53 +1,35 @@
-<!--
-
-In graphic design
-
-* Web & software
-* Responsive and generative designs, adaptable (Whitney, Tate), https://99designs.nl/blog/creative-inspiration/trend-spotting-adaptive-logo-design/
-* Grids - http://timbroadwater.com/2014/05/tschichold-dwiggins-muller-brockmann-and-the-grid/
-* Corporate Identity & Visual systems (Meggs)
-* Typography (Bringhurst e.o.) Scales, page layout
-
--->
-
 # a summary of visual design systems
 
-## the goal of design systems
+## About
+The purpose of the list below is to provide an overview of visual design systems that have had a significant impact. It is a work in progress. Is there a system that should be listed here? Please [let me know](/about).
 
-Unimark, an international design firm in the 60's believed that design could be a system, a basic structure set up so that other people could implement it effectively.
-Brand identity systems are probably the most well known outcome of this thinking.
+## A short history
+In the study of visual design systems, it becomes apparent that the creation and application of systems have been part of graphic design and typography from the earliest days. Engineering, science, philosophy and entrepreneurship go hand-in-hand with design, witness the invention of movable type.
 
-Design systems gain new popularity. Mostly because of the growing complexity in creating web-based digital products. Digital products (in contrast to printed products) are displayed on screens of different sizes and with dynamic content. They allow users to interact with their content, and take advantage of motion and animation.
-
-A new interesting mix of the the principles behind the visual design systems of the past and the new digital landscape appears, as shown by the introduction on the website of Google's Material Design system:
-
-> "We challenged ourselves to create a visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science."
-
-NAME promotes graphic designers to code. In his online book *Programming Design Systems* he sums up how designers could benefit from learning to code.
-
-> "Digital products *are* systems, and designers who code are no longer confined to the creation of design systems that end up in printed manuals. Code allows designers to not just create designs, but build digital systems that create designs. Granted, more time will be spent on formulating the rules of the system in code, but designers will be free from the limitations imposed by traditional design software."
-
-Conclusie is dat designers altijd al in meer of mindere mate met design systemen werken / system ontworpen/engineers waren. Voorbeeld letterontwerp op grid. Modular scale, Movable type, Canons of book design.
-
-A lack of tradition. When designing products for the digital products combine tradition with new insights.
-
-The new challange instead of design systems for designers we're moving to design systems for end-users.
-
-Systems that make better design results possible.
-
----
-
-![](assets/whitney-the-responsive-w.jpg)
-
-**The Responsive W** <span class="right">2015</span>
-
-The idea of the ‘responsive W’: the line as a graphic agent of systems (and of anti-systems), as a signifier of modern art, as a sketch of things-yet-to-come, as a diagrammatic device, and as a representation of lineage (and thus of heritage). The ‘Responsive W’ can also be seen as a flexible typographic grid. The W-shaped construction is an excellent platform for all kinds of text – in this case the name ‘Whitney’.
-<br/>
+An example of the scientific approach is found in the development of a new typeface for the Imprimerie Royale in 1692. The new letter was to be designed by "scientific" principles. Headed by mathematician Nicolas Jaugeon, the academicians examined all previous alphabets and studies on type design. To construct the new roman capital letters, a square was divided into a grid of sixty-four units; each of these units was divided further into thirty-six smaller units for a total of 2.304 tiny squares. A mathematical harmony was achieved by measurement and drafting instruments.
 <small>
-Experimental Jetset. Whitney Graphic Identity. [www.experimentaljetset.nl/archive/whitney-museum-identity](http://www.experimentaljetset.nl/archive/whitney-museum-identity)
+Philip B. Meggs and Alston W. Purvis. Meggs' History of Graphic Design. Wiley. 6th Edition. p. 129.
 </small>
 
----
+Much later, Unimark, an international design firm in the 60's believed that design could be a (rational) system, a basic structure set up so that other people could implement it effectively. Helvetica and brand identity systems are probably the most popular outcome of this period.
+
+Today a new exciting mix of the 'classic' principles behind visual design systems of the past and the new digital landscape appears, as is shown by Google's Material Design system:
+
+> "We challenged ourselves to create a visual language for our users that synthesizes the classic principles of good design with the innovation and possibility of technology and science."
+<small>
+Google. Material design. [material.google.com](https://material.google.com)
+</small>
+
+Rune Skjoldborg Madsen promotes graphic designers to code. In his online book *Programming Design Systems* he sums up how designers could benefit from learning to code.
+
+> "Digital products *are* systems, and designers who code are no longer confined to the creation of design systems that end up in printed manuals. Code allows designers to not just create designs, but build digital systems that create designs. Granted, more time will be spent on formulating the rules of the system in code, but designers will be free from the limitations imposed by traditional design software."
+<small>
+Programming Design Systems. [programmingdesignsystems.com](http://programmingdesignsystems.com)
+</small>
+
+Especially the internet opens up new opportunities for a much broader audience, of which self-publishing is a prominent one. Instead of design systems for designers, we're moving to design systems for end-users. Systems that make better design results possible, for anyone.
+
+## visual design systems
 
 ![](assets/google-material-design.png)
 
@@ -69,6 +51,19 @@ Atomic design is a methodology composed of five distinct stages working together
 <br/>
 <small>
 Brad Frost. Atomic Design. [atomicdesign.bradfrost.com](http://atomicdesign.bradfrost.com/)
+</small>
+
+---
+
+![](assets/bootstrap.png)
+
+**Bootstrap** <span class="right">2011</span>
+
+Originally created by a designer and a developer at Twitter, Bootstrap has become one of the most popular front-end frameworks and open source projects in the world. Bootstrap was created at Twitter in mid-2010 by @mdo and @fat. Prior to being an open-sourced framework, Bootstrap was known as Twitter Blueprint. A few months into development, Twitter held its first Hack Week and the project exploded as developers of all skill levels jumped in without any external guidance. It served as the style guide for internal tools development at the company for over a year before its public release, and continues to do so today.
+<br/>
+<small>
+Bootstrap
+[getbootstrap.com/about/](http://getbootstrap.com/about/)
 </small>
 
 ---
@@ -162,7 +157,7 @@ Joseph Müller Brockmann. Grid systems in graphic design. n'li. 8th revised edit
 
 **The Canons of page construction** <span class="right">1950</span>
 
-The canons of page construction are a set of principles in the field of book design used to describe the ways that page proportions, margins and type areas (print spaces) of books are constructed. The notion of canons, or laws of form, of book page construction was popularized by Jan Tschichold in the mid to late twentieth century, based on the work of J. A. van de Graaf, Raúl M. Rosarivo, Hans Kayser, and others. Tschichold wrote, “Though largely forgotten today, methods and rules upon which it is impossible to improve have been developed for centuries. To produce perfect books these rules have to be brought to life and applied.”
+The canons of page construction are a set of principles in the field of book design used to describe the ways that page proportions, margins and type areas (print spaces) of books are constructed. The notion of canons, or laws of form, of book page construction, was popularized by Jan Tschichold in the mid to late twentieth century, based on the work of J. A. van de Graaf, Raúl M. Rosarivo, Hans Kayser, and others. Tschichold wrote, “Though largely forgotten today, methods and rules upon which it is impossible to improve have been developed for centuries. To produce perfect books these rules have to be brought to life and applied.”
 <br/>
 <small>
 Wikipedia. Canons of page construction. [en.wikipedia.org/wiki/Canons_of_page_construction](https://en.wikipedia.org/wiki/Canons_of_page_construction)
