@@ -1,4 +1,4 @@
-# The dynamic nature of visual grids
+# The expressivity of visual grids
 
 ## How grids are used to express meaning
 
@@ -25,15 +25,26 @@ Grids are not only just functional ways of displaying information. They inevitab
 
 ![](/articles/photo-grids/assets/JAZZ-ed-van-der-elsken-2.jpg)
 
-An impressive example of grid design is Ed van der Elsken's photobook *Jazz*. Pages are split into two-, three-, four-, and six-part image combinations, resembling the clusters of notes in a saxophone or trumpet run. Graphically, vertical clusters of images suggest piano keys, while horizontal, stretched images recall held notes. The result is a book that visually echoes the music itself [3].
+An impressive example of expressive grid design is Ed van der Elsken's photobook *Jazz*. Pages are split into two-, three-, four-, and six-part image combinations, resembling the clusters of notes in a saxophone or trumpet run. Graphically, vertical clusters of images suggest piano keys, while horizontal, stretched images recall held notes. The result is a book that visually echoes the music itself [3].
 
-Example 2.
+![](/articles/photo-grids/assets/bechers.jpg)
+<small>Image from [Tate Modern website](http://www.tate.org.uk/context-comment/articles/long-look-bernd-hilla-becher)</small>
+
+Bernd and Hilla Becher have spent their life together photographing the unintended beauty that can be found in industrial structures. By placing photographs of similar subjects alongside each other, the individual differences emerge, making the fine details in each picture more noticeable, more distinct [4]. The beauty depicted in these structures is undeniable, especially when grouped together for comparison; in the grid, your eye hones in on the subtle differences from structure to structure--a reminder that they all sprung from a conscious (and creative) human design. [5]
+
+![](/articles/photo-grids/assets/ed-ruscha-pacific-coast-highway-1024x687.jpg)
+<small>Ed Ruscha. ‘Contact sheet – Pacific Coast Highway,’ 1974-1975. | Photo: The Getty Research Institute, Los Angeles (2012.M.2)</small>
+
+This contact sheet of Ed Ruscha's *Pacific Coast Highway* project displays a sequence of images made by mounting a 35 mm camera to a slow-moving automobile. [6]
+Time is displayed very well, like https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion.jpg
+
+Magnum contact sheet. Revealing meaning...
+https://www.icp.org/exhibitions/magnum-contact-sheets
 
 ## Digital grids are fluid
 
 New digital fluidity, by adjusting the size and negative space. Morphing.
 
-Example 1.
 
 ---
 <small>
@@ -41,6 +52,9 @@ Example 1.
 * [1] Arne Glimcher. Agnes Martin, Paintings, Writings, Remembrances. Phaidon.
 * [2] Robert Bringhurst. The Elements of Typographic Style. H&M Publishers.
 * [3] Martin Parr and Gerry Badger. The Photobook - A History Volume 1. Phaidon.
+* [4] Tate.  http://www.tate.org.uk/context-comment/articles/long-look-bernd-hilla-becher
+* [5] americanphotomag.com http://www.americanphotomag.com/instant-expert-bernd-and-hilla-becher
+* [6] http://www.getty.edu/art/exhibitions/focus_ruscha/
 
 </small>
 
