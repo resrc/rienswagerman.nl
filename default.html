@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>{{.Doc.title}}</title>
+		<meta name="description" content="{{.Doc.description}}">
     <link rel="stylesheet" href="/assets/css/normalize.css">
     <link rel="stylesheet" href="/assets/css/core.css">
     <link rel="stylesheet" href="/assets/css/style-graphik.css">
@@ -17,6 +18,25 @@
 			<article>
 				{{.Doc.body}}
 			</article>
+			{{if and (ne .URI "/articles/") (ne .URI "/about/") }}
+				<article>
+					<h2>Comments</h2>
+					<div id="disqus_thread"></div>
+					<script>
+					var disqus_config = function () {
+					this.page.url = "http://rienswagerman.nl{{.URI}}";
+					this.page.identifier = "{{.URI}}";
+					};
+					(function() { // DON'T EDIT BELOW THIS LINE
+					var d = document, s = d.createElement('script');
+					s.src = '//rienswagerman.disqus.com/embed.js';
+					s.setAttribute('data-timestamp', +new Date());
+					(d.head || d.body).appendChild(s);
+					})();
+					</script>
+					<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+				</article>
+			{{end}}
 		</div>
 	</body>
 

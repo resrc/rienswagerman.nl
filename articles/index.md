@@ -1,4 +1,7 @@
+---
+title: articles
+---
 #articles
 
-* [The dynamic nature of visual grids](/articles/photo-grids/)
+* [The expressivity of photographic grids](/articles/photo-grids/)
 * [A summary of visual design systems](/articles/visual-design-systems/)

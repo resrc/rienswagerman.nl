@@ -1,4 +1,9 @@
-# The expressivity of visual grids
+---
+title: The expressivity of photographic grids
+description: An article about the display of photographs in grids. How photographic display in grids are used to express meaning.
+---
+
+# The expressivity of photo- graphic grids
 
 ## How grids are used to express meaning
 
@@ -40,6 +45,10 @@ Time is displayed very well, like https://commons.wikimedia.org/wiki/File:The_Ho
 
 Magnum contact sheet. Revealing meaning...
 https://www.icp.org/exhibitions/magnum-contact-sheets
+
+Modular grids, brockmann voorbeeld (photo essay)
+
+Film poster
 
 ## Digital grids are fluid
 

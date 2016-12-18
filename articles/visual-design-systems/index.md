@@ -1,3 +1,7 @@
+---
+title: A summary of visual design systems
+description: A summary of visual design systems that have had a significant impact.
+---
 # a summary of visual design systems
 
 ## About
