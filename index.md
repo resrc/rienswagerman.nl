@@ -1,1 +1,1 @@
-articles/photo-grids/index.md
+programming-design/index.md

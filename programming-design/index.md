@@ -93,4 +93,4 @@
   }
 </script>
 
-<small style="text-align: center; width: 100%; display: inline-block;">Karl Gerstner XX. Modelled in p5js</small>
+<small style="text-align: center; width: 100%; display: inline-block;">Colour Sounds - Karl Gerstner. Modeled in p5.js.</small>
