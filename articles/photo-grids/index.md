@@ -43,12 +43,24 @@ Bernd and Hilla Becher have spent their life together photographing the unintend
 This contact sheet of Ed Ruscha's *Pacific Coast Highway* project displays a sequence of images made by mounting a 35 mm camera to a slow-moving automobile. [6]
 Time is displayed very well, like https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion.jpg
 
-Magnum contact sheet. Revealing meaning...
-https://www.icp.org/exhibitions/magnum-contact-sheets
+![](/articles/photo-grids/assets/Contact-Sheet-from-The-Americans.jpg)
+<br/><small>Image from [Tate Modern](http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79744) website</small>
+
+The grid layout of the contact sheet makes it possible to compare and select. It gives a structured overview in time and sequence. When looking at the, later, they reveal the creative methods, strategies and editing processes [7]. The contact sheet has become an object of the past, but it is also an artefact in itself. It symbolises an independent genre related to film, storytelling and tradition in photojournalism [8]. The 'Thumbnail' can be seen as a digital cognate of the contact print [9]
 
 Modular grids, brockmann voorbeeld (photo essay)
 
 Film poster
+
+Andreas Gursky
+http://www.zingmagazine.com/zing9/reviews/gursky.html
+http://nymag.com/arts/art/reviews/31785/
+http://www.tandfonline.com/doi/full/10.1080/17514517.2016.1153264?src=recsys
+http://www.kemperartmuseum.wustl.edu/exhibitions/2363
+https://mclaremontdavies.wordpress.com/2015/02/05/243/
+https://www.sfmoma.org/press/release/sfmoma-presents-the-work-of-contemporary-german-a/
+
+Piet mondriaan
 
 ## Digital grids are fluid
 
@@ -64,6 +76,9 @@ New digital fluidity, by adjusting the size and negative space. Morphing.
 * [4] Tate.  http://www.tate.org.uk/context-comment/articles/long-look-bernd-hilla-becher
 * [5] americanphotomag.com http://www.americanphotomag.com/instant-expert-bernd-and-hilla-becher
 * [6] http://www.getty.edu/art/exhibitions/focus_ruscha/
+* [7] https://www.magnumphotos.com/theory-and-practice/magnum-contact-sheets/
+* [8] https://www.foam.org/about/press-office/magnum-contact-sheets
+* [9] https://en.wikipedia.org/wiki/Thumbnail
 
 </small>
 
