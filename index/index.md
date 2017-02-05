@@ -8,7 +8,7 @@ title: Index
 
 #program
 
-* [Color Sounds - Karl Gerstner](/programm/color-sounds/)
+* [Color Sounds - Karl Gerstner](/program/color-sounds/)
 * [Color substraction - rs](/program/rs/)
 
 #photo
