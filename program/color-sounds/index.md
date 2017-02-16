@@ -1,25 +1,26 @@
+---
+title: Colour Sounds - Karl Gerstner
+description: Digital program of the Colour Sounds from Karl Gerstner.
+og_image: http://www.rienswagerman.nl/program/rs/assets/rs.png
+---
+
 <style>
   html, body {
    background-color: rgb(100, 134, 233);
-}
-.sketches canvas {
-  margin-left: -40px;
-}
-
+  }
 </style>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.6/p5.js"></script>
-<div id="sketch-holder" class="sketches">
-    <!-- Our sketch will go here! -->
+<div class="sketch-wrapper">
+  <div id="sketch-holder" class="sketches">
+      <!-- sketch will go here! -->
+  </div>
 </div>
 <script>
   function setup()
   {
-    if(windowWidth < 1050) {
-      var canvas = createCanvas(windowWidth - windowWidth / 5, 600);
-    } else {
-      var canvas = createCanvas(800, 800);
-    }
+
+    var canvas = createCanvas(800, 800);
     canvas.parent('sketch-holder');
     background(100, 134, 233)
     noLoop();

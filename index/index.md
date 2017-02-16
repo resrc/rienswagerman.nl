@@ -3,7 +3,7 @@ title: Index
 ---
 #text
 
-* [The expressivity of photographic grids](/text/photo-grids/)
+* [Photographic grids](/text/photo-grids/)
 * [A summary of visual design systems](/text/visual-design-systems/)
 
 #program

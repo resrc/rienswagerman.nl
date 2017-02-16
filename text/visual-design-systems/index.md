@@ -4,7 +4,6 @@ description: A summary of visual design systems that have had a significant impa
 ---
 # a summary of visual design systems
 
-## About
 The purpose of the list below is to provide an overview of visual design systems that have had a significant impact. It is a work in progress. Is there a system that should be listed here? Please [let me know](/about).
 
 ## A short history

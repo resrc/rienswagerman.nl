@@ -1,16 +1,13 @@
-<style>
-  html, body {
-   background-color: rgb(255, 255, 255);
-}
-.sketches canvas {
-  margin-left: -40px;
-}
-
-</style>
-
+---
+title: RS - Color substraction
+description: Subtract colors from underlying image.
+og_image: http://www.rienswagerman.nl/program/rs/assets/rs.png
+---
 <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.6/p5.js"></script>
-<div id="sketch-holder" class="sketches">
-    <!-- Our sketch will go here! -->
+<div class="sketch-wrapper">
+  <div id="sketch-holder" class="sketches">
+      <!-- sketch will go here! -->
+  </div>
 </div>
 <script>
   var reds = [255, 0, 0]
@@ -50,13 +47,9 @@
 
   function setup()
   {
-    if(windowWidth < 1050) {
-      var canvas = createCanvas(windowWidth - windowWidth / 5, 600);
-    } else {
-      var canvas = createCanvas(800, 500);
-    }
+    var canvas = createCanvas(800, 800);
     canvas.parent('sketch-holder');
-    background(255, 255, 255)
+    background(252)
     blendMode(DIFFERENCE); //http://p5js.org/reference/#/p5/blendMode
     frameRate(0.7);
     r(offset, colors);

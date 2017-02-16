@@ -37,6 +37,31 @@ article {
   font-kerning: normal;
 }
 
+.sketch-wrapper {
+  padding-top: 10vh;
+}
+
+@media (max-width: 1600px) {
+  .sketch-wrapper {
+    padding-top: 1vh;
+  }
+}
+
+.sketches {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+}
+
+.sketches canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+
 /* Sticky footer */
 
 html, body {
