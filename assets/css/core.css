@@ -41,7 +41,7 @@ article {
   padding-top: 10vh;
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1700px) {
   .sketch-wrapper {
     padding-top: 1vh;
   }

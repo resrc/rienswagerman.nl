@@ -3,6 +3,14 @@ title: RS - Color substraction
 description: Subtract colors from underlying image.
 og_image: http://www.rienswagerman.nl/program/rs/assets/rs.png
 ---
+
+<style>
+body, html { 
+  background-color: rgb(255, 50,	50); 
+}
+
+</style>
+
 <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.6/p5.js"></script>
 <div class="sketch-wrapper">
   <div id="sketch-holder" class="sketches">
@@ -49,7 +57,7 @@ og_image: http://www.rienswagerman.nl/program/rs/assets/rs.png
   {
     var canvas = createCanvas(800, 800);
     canvas.parent('sketch-holder');
-    background(252)
+    background(255, 50,	50)
     blendMode(DIFFERENCE); //http://p5js.org/reference/#/p5/blendMode
     frameRate(0.7);
     r(offset, colors);
