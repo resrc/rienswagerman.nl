@@ -37,14 +37,12 @@ article {
   font-kerning: normal;
 }
 
-.sketch-wrapper {
-  padding-top: 10vh;
-}
-
-@media (max-width: 1700px) {
-  .sketch-wrapper {
-    padding-top: 1vh;
-  }
+article.sketch {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
 }
 
 .sketches {

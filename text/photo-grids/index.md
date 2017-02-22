@@ -45,7 +45,7 @@ Time is displayed very well, like https://commons.wikimedia.org/wiki/File:The_Ho
 
 The grid layout of the contact sheet makes it possible to compare and select. It gives a structured overview of time and sequence. When looking at them later, they reveal the creative methods, strategies and editing processes<sup>7</sup>. The contact sheet has become an object of the past, but it is also an artifact in itself. It symbolizes an independent genre related to film, storytelling, and tradition in photojournalism<sup>8</sup>. The 'Thumbnail' can be seen as a digital cognate of the contact print<sup>9</sup>.
 
-*More is coming soon.*
+*More coming soon.*
 
 
 ---

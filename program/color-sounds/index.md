@@ -2,6 +2,7 @@
 title: Colour Sounds - Karl Gerstner
 description: Digital program of the Colour Sounds from Karl Gerstner.
 og_image: http://www.rienswagerman.nl/program/rs/assets/rs.png
+content_type: sketch
 ---
 
 <style>
@@ -11,11 +12,11 @@ og_image: http://www.rienswagerman.nl/program/rs/assets/rs.png
 </style>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.6/p5.js"></script>
-<div class="sketch-wrapper">
-  <div id="sketch-holder" class="sketches">
+
+<div id="sketch-holder" class="sketches">
       <!-- sketch will go here! -->
-  </div>
 </div>
+
 <script>
   function setup()
   {
@@ -93,5 +94,6 @@ og_image: http://www.rienswagerman.nl/program/rs/assets/rs.png
     }
   }
 </script>
+
 
 <small style="text-align: center; width: 100%; display: inline-block;">Colour Sounds - Karl Gerstner.</small>

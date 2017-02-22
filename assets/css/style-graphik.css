@@ -312,11 +312,6 @@ strong,
 blockquote em {
 }
 
-/* Sketches & Images */
-.sketches {
-  margin-top: calc((62 / 23) * 1em);
-}
-
 /* Headings */
 
 h1 {
