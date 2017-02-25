@@ -186,20 +186,15 @@ Robert Bringhurst. The Elements of Typographic Style. 4th edition. Hartley and M
 
 ---
 
-*Scan image from p. 12 - Thinking with type.*
+<!-- Scan image from p. 12 - Thinking with type. -->
 
 **Movable type** <span class="right">1456</span>
 
 Movable type, invented by Johannes Gutenberg in Germany in the early fifteenth century, revolutionized writing in the west. Printing with type allowed mass production: large quantities of letters could be cast from a mold and assembled into “forms”. Movable type had been employed in China but had proven less useful there.
 <br/>
 <small>
-Ellen Lupton. Thinking with type. Princeton Architectural Press; 2 Rev Exp edition. 2010.
+  Ellen Lupton. Thinking with type. Princeton Architectural Press; 2 Rev Exp edition. 2010.
 </small>
-
-
----
-
-Parthenon, Vitrivius
 
 ---
 
