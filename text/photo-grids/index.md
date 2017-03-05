@@ -38,7 +38,6 @@ A uniform way of presenting photography in a grid make a *typology*. Bernd and H
 <small>Ed Ruscha. ‘Contact sheet – Pacific Coast Highway,’ 1974-1975. | Photo: The Getty Research Institute, Los Angeles (2012.M.2)</small>
 
 This contact sheet of Ed Ruscha's *Pacific Coast Highway* project displays a *sequence* of images made by mounting a 35 mm camera to a slow-moving automobile<sup>6</sup>.
-Time is displayed very well, like https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion.jpg
 
 ![](assets/Contact-Sheet-from-The-Americans.jpg)
 <br/><small>Image from [Tate Modern](http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79744) website</small>
