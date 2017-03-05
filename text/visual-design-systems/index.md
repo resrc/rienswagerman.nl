@@ -143,11 +143,12 @@ Eye Magazine. Penguin Crime Text In Full. [www.eyemagazine.com/feature/article/p
 ![](assets/muller-brockman-grid-systems.jpg)
 
 **Baseling Grid** <span class="right">1950</span>
-
-Josef Müller-Brockmann (1914−1996) studied architecture, design and history of art in Zurich and worked as a graphic designer and teacher. His work is recognized for its simple designs and his clean use of fonts, shapes and colors, which still inspires many graphic designers throughout the world today. Since the 1950s grid systems help the designer to organize the graphic elements and have become a worldwide standard.
+After World War II, a number of graphic designers, including Max Bill, Emil Ruder, and Josef Müller-Brockmann, influenced by the modernist ideas of Jan Tschichold's Die neue Typographie (The New Typography), began to question the relevance of the conventional page layout of the time. They began to devise a flexible system able to help designers achieve coherency in organizing the page. The result was the modern typographic grid that became associated with the International Typographic Style. The seminal work on the subject, Grid systems in graphic design by Müller-Brockmann, helped propagate the use of the grid, first in Europe, and later in North America.
 <br/>
 <small>
 Joseph Müller-Brockmann. Grid systems in graphic design. n'li. 8th revised edition.
+<br/>
+Wikipedia. Grid. [en.wikipedia.org/wiki/Grid_(graphic_design)](https://en.wikipedia.org/wiki/Grid_(graphic_design))
 </small>
 
 ---
