@@ -168,12 +168,26 @@ Wikipedia. Canons of page construction. [en.wikipedia.org/wiki/Canons_of_page_co
 
 **Modulor - Le Corbusier** <span class="right">1948</span>
 
-Le Corbusier developed the Modulor in the long tradition of Vitruvius, Leonardo da Vinci's Vitruvian Man, the work of Leon Battista Alberti, and other attempts to discover mathematical proportions in the human body and then to use that knowledge to improve both the appearance and function of architecture.[1] The system is based on human measurements, the double unit, the Fibonacci numbers, and the golden ratio. Le Corbusier described it as a "range of harmonious measurements to suit the human scale, universally applicable to architecture and to mechanical things".
+Le Corbusier developed the Modulor in the long tradition of Vitruvius, Leonardo da Vinci's Vitruvian Man, the work of Leon Battista Alberti, and other attempts to discover mathematical proportions in the human body and then to use that knowledge to improve both the appearance and function of architecture. The system is based on human measurements, the double unit, the Fibonacci numbers, and the golden ratio. Le Corbusier described it as a "range of harmonious measurements to suit the human scale, universally applicable to architecture and to mechanical things".
 <br/>
 <small>
 Wikipedia. Modulor. [en.wikipedia.org/wiki/Modulor](https://en.wikipedia.org/wiki/Modulor)
 </small>
+
 ---
+
+![](assets/Munsell_color_sphere.png)
+
+**Munsell color system** <span class="right">1900</span>
+
+One of the most significant color systems was created by the American painter Albert Henry Munsell. The way we visually match color today is the result of Albert H. Munsell’s work nearly a century ago. In fact, modern day color theory and mathematical color system is based on Munsell’s theory of color. His groundbreaking work laid the foundation for today’s computerized color matching systems and enabled a greater understanding of color principles for generations to come (from [munsell.com](http://munsell.com/about-munsell-color/)). The Munsell color system is a color space that specifies colors based on three color dimensions: hue, value, and chroma. Much like the curent HSL color model.
+<br/>
+<small>
+Wikipedia. Munsell color system. [en.wikipedia.org/wiki/Munsell_color_system](https://en.wikipedia.org/wiki/Munsell_color_system)
+</small>
+
+---
+
 ![](assets/traditional-typographic-scale.png)
 
 **The typographic scale** <span class="right">1500</span>
