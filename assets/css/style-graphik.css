@@ -600,11 +600,3 @@ ol .task-list-item {
   height: 1.6316em; /* same as width */
   background-position: 47% 39%; /* tweaks */
 }
-
-/* Position ordinal counters so 1-9 left-align with left content edge. Subsequent counters will begin in gutter. *
-ol .task-list-item {
-  margin-left: -14px;
-  padding-left: 14px;
-}*/
-
-
