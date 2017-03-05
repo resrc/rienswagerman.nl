@@ -143,6 +143,7 @@ Eye Magazine. Penguin Crime Text In Full. [www.eyemagazine.com/feature/article/p
 ![](assets/muller-brockman-grid-systems.jpg)
 
 **Baseling Grid** <span class="right">1950</span>
+
 After World War II, a number of graphic designers, including Max Bill, Emil Ruder, and Josef Müller-Brockmann, influenced by the modernist ideas of Jan Tschichold's Die neue Typographie (The New Typography), began to question the relevance of the conventional page layout of the time. They began to devise a flexible system able to help designers achieve coherency in organizing the page. The result was the modern typographic grid that became associated with the International Typographic Style. The seminal work on the subject, Grid systems in graphic design by Müller-Brockmann, helped propagate the use of the grid, first in Europe, and later in North America.
 <br/>
 <small>
