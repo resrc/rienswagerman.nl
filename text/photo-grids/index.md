@@ -53,11 +53,11 @@ The grid layout of the contact sheet makes it possible to compare and select. It
   * <sup>1, 2</sup> Arne Glimcher. Agnes Martin, Paintings, Writings, Remembrances. Phaidon.
   * <sup>2</sup> Robert Bringhurst. The Elements of Typographic Style. H&M Publishers.
   * <sup>3</sup> Martin Parr and Gerry Badger. The Photobook - A History Volume 1. Phaidon.
-  * <sup>4</sup> Tate.  http://www.tate.org.uk/context-comment/articles/long-look-bernd-hilla-becher
-  * <sup>5</sup> americanphotomag.com http://www.americanphotomag.com/instant-expert-bernd-and-hilla-becher
-  * <sup>6</sup> http://www.getty.edu/art/exhibitions/focus_ruscha/
-  * <sup>7</sup> https://www.magnumphotos.com/theory-and-practice/magnum-contact-sheets/
-  * <sup>8</sup> https://www.foam.org/about/press-office/magnum-contact-sheets
-  * <sup>9</sup> https://en.wikipedia.org/wiki/Thumbnail
+  * <sup>4</sup> [www.tate.org.uk/context-comment/articles/long-look-bernd-hilla-becher](http://www.tate.org.uk/context-comment/articles/long-look-bernd-hilla-becher)
+  * <sup>5</sup> [www.americanphotomag.com/instant-expert-bernd-and-hilla-becher](http://www.americanphotomag.com/instant-expert-bernd-and-hilla-becher)
+  * <sup>6</sup> [www.getty.edu/art/exhibitions/focus_ruscha](http://www.getty.edu/art/exhibitions/focus_ruscha/)
+  * <sup>7</sup> [www.magnumphotos.com/theory-and-practice/magnum-contact-sheets](https://www.magnumphotos.com/theory-and-practice/magnum-contact-sheets/)
+  * <sup>8</sup> [www.foam.org/about/press-office/magnum-contact-sheets](https://www.foam.org/about/press-office/magnum-contact-sheets)
+  * <sup>9</sup> [en.wikipedia.org/wiki/Thumbnail](https://en.wikipedia.org/wiki/Thumbnail)
 
 </small>
