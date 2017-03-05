@@ -180,7 +180,7 @@ Wikipedia. Modulor. [en.wikipedia.org/wiki/Modulor](https://en.wikipedia.org/wik
 
 **Munsell color system** <span class="right">1900</span>
 
-One of the most significant color systems was created by the American painter Albert Henry Munsell. The way we visually match color today is the result of Albert H. Munsell’s work nearly a century ago. In fact, modern day color theory and mathematical color system is based on Munsell’s theory of color. His groundbreaking work laid the foundation for today’s computerized color matching systems and enabled a greater understanding of color principles for generations to come (from [munsell.com](http://munsell.com/about-munsell-color/)). The Munsell color system is a color space that specifies colors based on three color dimensions: hue, value, and chroma. Much like the curent HSL color model.
+One of the most significant color systems was created by the American painter Albert Henry Munsell. The way we visually match color today is the result of Albert H. Munsell’s work nearly a century ago. In fact, modern day color theory and mathematical color system is based on Munsell’s theory of color. His groundbreaking work laid the foundation for today’s computerized color matching systems and enabled a greater understanding of color principles for generations to come (from [munsell.com](http://munsell.com/about-munsell-color/)). The Munsell color system is a color space that specifies colors based on three color dimensions: hue, value, and chroma. Much like the current HSL color model.
 <br/>
 <small>
 Wikipedia. Munsell color system. [en.wikipedia.org/wiki/Munsell_color_system](https://en.wikipedia.org/wiki/Munsell_color_system)
