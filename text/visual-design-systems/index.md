@@ -210,8 +210,14 @@ Movable type, invented by Johannes Gutenberg in Germany in the early fifteenth c
   Ellen Lupton. Thinking with type. Princeton Architectural Press; 2 Rev Exp edition. 2010.
 </small>
 
+<br/>
+
 ---
 
-Follow updates on my twitter account [twitter.com/rienswagerman](https://twitter.com/rienswagerman)
+**Something missing?** Drop me an e-mail at info@rienswagerman.nl.
+
+---
+
+Follow updates on my twitter timeline [twitter.com/rienswagerman](https://twitter.com/rienswagerman)
 
 ---
